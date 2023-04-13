@@ -51,5 +51,5 @@ This is a web-based chat application that allows users to participate in group c
 
 In conclusion, this project was a great learning experience for me. I had the opportunity to work with the MERN stack and build a fully functional web-based chat application. Through this project, I gained a deeper understanding of React, Node.js, Express, MongoDB and Socket.io.
 
-Thank you for taking the time to read my project readme. If you have any feedback or suggestions for improvement, please don't hesitate to reach out to me at [mr.maddy150912@gmail.com].
-Also, if you're interested in similar projects, feel free to check out my [https://github.com/Maddy150912/] for more! 
+Thank you for taking the time to read my project readme. If you have any feedback or suggestions for improvement, please don't hesitate to reach out to me at  mr.maddy150912@gmail.com.
+Also, if you're interested in similar projects, feel free to check out my https://github.com/Maddy150912/  for more! 
