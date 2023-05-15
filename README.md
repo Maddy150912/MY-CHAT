@@ -44,7 +44,7 @@ This is a web-based chat application that allows users to participate in group c
  
 ### Project Link
 
- - *Live Project Link* - [Live Project Link](https://mychat-x0qt.onrender.com/)
+ - *Live Project Link* - (https://mychat-x0qt.onrender.com/)
 
 
 ## Conclusion
