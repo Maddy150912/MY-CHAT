@@ -46,6 +46,19 @@ This is a web-based chat application that allows users to participate in group c
 
  - *Live Project Link* - https://mychat-x0qt.onrender.com/
 
+## Demo Users credentials
+#### Test the app by logging in below credentials in user login.
+
+    User 1
+    name - Example1 
+    Email - Example1@gmail.com
+    password - Example1
+    
+    User 2
+    name - Example2 
+    Email - Example2@gmail.com
+    password - Example2
+
 
 ## Conclusion
 
